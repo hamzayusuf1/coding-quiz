@@ -1,0 +1,2 @@
+# coding-quiz
+In this task, I was able to create a timed, multiple choice quiz based on questions on JavaScript basics. The user was able to navigate through the quiz and the total of their answers was tallied and incorrect answers resulted in a deduction from the timer. This task helped me with practicing key javascript concepts such as functions, loops and arrays to create an interactive application.
